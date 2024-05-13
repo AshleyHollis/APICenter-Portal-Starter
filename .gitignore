@@ -336,7 +336,7 @@ reports/
 *.cobertura.xml
 
 # custom
-dist
+#dist
 dist-ssr
 *.local
 
